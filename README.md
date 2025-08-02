@@ -74,17 +74,8 @@ This chatbot was developed to support students in the CTSE course by providing i
 
 ---
 
-## 🔖 License
-
-This project is open-source under the MIT License.
-
----
-
 ## 🌍 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
 ---
-
-## 🔗 Project Link
-👉 **[GitHub Repository](https://github.com/it21159480/chatbot)**
